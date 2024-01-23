@@ -24,7 +24,8 @@ This is Challenge 11, Express.js Challenge: Note Taker. In this repo you will se
 * WHEN I click on the "New Note" button in the navigation at the top of the page
 * THEN I am presented with empty fields to enter a new note title and the note’s text in the right-hand column and the button disappears
 
-## 
+## Image
+![Screenshot of App](./Develop/public/assets/images/Screenshot.png)
 
 
 
